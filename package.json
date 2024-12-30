@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "retypeapp": "^3.6.0",
+    "start": "^5.1.0"
+  }
+}
